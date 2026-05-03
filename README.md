@@ -5,12 +5,11 @@ A .NET console application demonstrating Function Calling using Microsoft.Extens
 **Key Features**
 
 Use a list to highlight why someone should care.
-✅ Uses gpt-4o-mini via GitHub Models.
-✅ Demonstrates asynchronous tool calling.
-✅ Lightweight implementation without Semantic Kernel.
+ -> Uses gpt-4o-mini via GitHub Models.
+ -> Demonstrates asynchronous tool calling.
+ -> Lightweight implementation without Semantic Kernel.
 
 **Prerequisites**
-
 .NET 8.0 or 9.0 SDK
 A GitHub Personal Access Token (PAT)
 Setup
